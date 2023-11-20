@@ -8,16 +8,16 @@ Este proyecto es un juego simple desarrollado en Python con la ayuda de la bibli
 ### Interfaz de Usuario
 
 - **Menú Principal:**
-  - Al iniciar el juego, encuentras un menú con opciones numeradas.
-    - Presiona '1' para comenzar a jugar.
-    - Presiona '2' para salir del juego.
-    - Presiona '3' para ver las instrucciones.
+  - Al iniciar el juego, vas a poder encontrar un menú con opciones numeradas.
+    - Presioná '1' para comenzar a jugar.
+    - Presioná '2' para salir del juego.
+    - Presioná '3' para ver las instrucciones.
 
 - **Instrucciones:**
-  - En el menú, si presionas '3', verás las instrucciones detalladas del juego.
-  - Puedes regresar al menú principal en cualquier momento presionando 'ESC'.
-  - Utiliza las flechas izquierda y derecha para mover el cuadrado blanco horizontalmente.
-  - Presiona la barra espaciadora para disparar y destruir cuadrados rojos.
+  - En el menú, si presionas '3', vas a poder ver las instrucciones detalladas del juego.
+  - Podés regresar al menú principal en cualquier momento presionando 'ESC'.
+  - Utilizá las flechas izquierda y derecha para mover el cuadrado blanco horizontalmente.
+  - Presioná la barra espaciadora para disparar y destruir cuadrados rojos.
 
 - **Enemigos Aleatorios:**
   - Los cuadrados rojos aparecen de forma aleatoria en la parte superior de la pantalla.
@@ -33,3 +33,5 @@ pygame
 ### Ejecución 
 (En terminal)
 python pgtest.py 
+
+## ¡Muchas gracias! 
