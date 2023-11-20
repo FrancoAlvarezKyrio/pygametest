@@ -1,4 +1,4 @@
-#Juego PyGame
+### Juego PyGame
 
 ## Descripción del Proyecto
 
