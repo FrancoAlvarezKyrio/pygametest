@@ -1,4 +1,4 @@
-## Juego PyGame
+## Juego PyGame - Desarrollado por Franco Alvarez para prueba con Kodland
 
 ## Descripción del Proyecto
 
